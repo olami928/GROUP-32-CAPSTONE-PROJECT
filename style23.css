@@ -1,0 +1,199 @@
+
+@media screen and (max-width: 600px) {body {
+  height: 450px;
+  display: grid;
+  background-color: rgba(0, 0, 250, 0.1);
+  margin-top: 70px;
+  align-content: center;
+  font-size: 16px;
+  font-style: Red Hat Display;
+  max-width: 4000px;
+  justify-content: center;
+  font-family: Red Hat Display, serif;
+}
+}
+.change {
+  text-decoration: underline;
+  float: right;
+}
+
+.first-div {
+  width: 450px;
+  height: 221px;
+  align-content: center;
+
+}
+
+.first-div {
+  background-image: url(Project.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  
+
+
+  border-radius: 30px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+
+}
+
+.second-div {
+  text-align: center;
+  margin-top:50px;
+  justify-content:center;
+ 
+
+}
+
+.second-div {
+  margin-top: 50px;
+  font-weight: 900;
+  margin-bottom: 20px;
+  font-family: Red Hat Display;
+  font-size: 25px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.third-div {
+  text-align: center;
+  font-size: 15px;
+  justify-content: center;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  color: rgba(0, 0, 0,0.2);
+}
+.third-div{
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+}
+
+.sixth-div {
+  text-align: center;
+  color: white;
+  text-align:center;
+  margin-top:10px;
+}
+
+.seventh-div {
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  border: 1px solid white;
+  border-radius: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  height: 600px;
+  background-color: white;
+  height: 500px;
+  width: 320px;
+  grid-template-rows: 140px;
+
+
+
+}
+
+.grid-item2 {
+  justify-content: center;
+
+}
+
+.grid-item2 {
+
+  margin-top: 0px;
+}
+
+.grid-item1 {
+  justify-content: center ;
+  margin-right:0px;
+  margin-left: 0px;
+
+}
+.fourth-div{
+  text-indent: 20px;
+  font-weight: 700;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+#dollar{
+  text-indent: 25px;
+  margin-left: 30px;
+  font-weight: 500;
+  color: rgba(0, 0, 250, 0.2);
+  margin-top: 40px; 
+  
+  
+  }
+  .change{
+    
+    margin-right: 10px;
+    font-weight: 700;
+    margin: -20px;
+    margin-right: 20px;
+}
+  
+.seventh-div{
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+.para{
+  border: 1px solid rgba(0, 0, 250,0.2);
+height: 60px;
+width: 270px;
+justify-content: center;
+border-radius:10px;
+background-color: rgba(0, 0, 250,0.1);
+margin-left:19px;
+
+}
+.icon{
+  width: 20px;;
+  color: rgba(0, 0, 0,0.4);
+/*  border: 1px solid rgba(0, 0, 250, 0.1);*/
+  margin-top: 4px;
+  align-content: left;
+  margin-left:3px;
+  float: left;
+ /* border-radius: 7px;
+  padding: 2px;*/
+  
+}
+.icon{
+  border-top-width: 10px;
+  padding-top: 3px;
+  border-radius: 30px;
+  padding-right: 5px;
+  padding-left: 5px;
+  background-color: rgba(0, 0, 250,0.1);
+  
+ height: 35px;
+ 
+  border: 1px solid rgba(0, 0, 250,0.1);
+}
+.sixth-div{
+  width: 280px;
+  margin-left:20px;
+  margin-top: 30px;
+  height:40px;
+  border-radius: 20px;
+  justify-content: center;
+  padding-top:20px;
+  
+  
+ 
+  background-color: rgba(0, 0, 250,0.7);
+}
+.bold{
+  margin-top:70px;
+  padding-top: 30px;
+}
+.seventh-div{
+  margin-left: 10px;
+  font-weight: 500px;
+  margin-top:10px;
+  font-weight: bold;
+}
